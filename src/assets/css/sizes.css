@@ -1,0 +1,23 @@
+.w-sm {
+  width: var(--size-sm);
+}
+
+.w-med {
+  width: var(--size-med);
+}
+
+.w-lrg {
+  width: var(--lrg);
+}
+
+.w-full {
+  width: var(--size-full);
+}
+
+.w-xl {
+  width: var(--size-xl);
+}
+
+.w-xxl {
+  width: var(--size-xxl);
+}

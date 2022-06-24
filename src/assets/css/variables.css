@@ -1,0 +1,15 @@
+:root {
+  /* colors */
+  --eggplant: #2a204d;
+  --midnight: #2a204d;
+  --pink: #e980fc;
+  --white: #ffffff;
+
+  /* sizes */
+  --size-sm: 25%;
+  --size-med: 50%;
+  --size-lrg: 75%;
+  --size-full: 100%;
+  --size-xl: 150%;
+  --size-xxl: 200%;
+}

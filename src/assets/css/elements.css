@@ -1,0 +1,15 @@
+html {
+  background-color: var(--midnight);
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+h1,
+h2,
+h3,
+p,
+li {
+  color: var(--white);
+}
