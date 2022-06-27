@@ -1,3 +1,19 @@
+.bgc-eggplant {
+  background-color: var(--eggplant);
+}
+
+.bgc-midnight {
+  background-color: var(--midnight);
+}
+
+.bgc-pink {
+  background-color: var(--pink);
+}
+
+.bgc-white {
+  background-color: var(--white);
+}
+
 .c-eggplant {
   color: var(--eggplant);
 }
